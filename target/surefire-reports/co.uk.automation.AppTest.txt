@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.uk.automation.AppTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.75 s - in co.uk.automation.AppTest

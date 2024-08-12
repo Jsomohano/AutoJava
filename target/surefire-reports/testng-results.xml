@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-07T22:23:46 CST" name="Surefire suite" finished-at="2024-08-07T22:24:01 CST" duration-ms="15527">
+    <groups>
+    </groups>
+    <test started-at="2024-08-07T22:23:46 CST" name="Surefire test" finished-at="2024-08-07T22:24:01 CST" duration-ms="15527">
+      <class name="co.uk.automation.Tests.testExample">
+        <test-method is-config="true" signature="testInitialize()[pri:0, instance:co.uk.automation.Tests.testExample@1eb5174b]" started-at="2024-08-07T22:23:46 CST" name="testInitialize" finished-at="2024-08-07T22:23:46 CST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInitialize -->
+        <test-method signature="userNameValidation()[pri:0, instance:co.uk.automation.Tests.testExample@1eb5174b]" started-at="2024-08-07T22:23:46 CST" name="userNameValidation" finished-at="2024-08-07T22:23:58 CST" duration-ms="12538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameValidation -->
+        <test-method signature="userNameValidation2()[pri:0, instance:co.uk.automation.Tests.testExample@1eb5174b]" started-at="2024-08-07T22:23:58 CST" name="userNameValidation2" finished-at="2024-08-07T22:24:00 CST" duration-ms="1455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameValidation2 -->
+        <test-method is-config="true" signature="cleanDriver()[pri:0, instance:co.uk.automation.Tests.testExample@1eb5174b]" started-at="2024-08-07T22:24:00 CST" name="cleanDriver" finished-at="2024-08-07T22:24:01 CST" duration-ms="1480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanDriver -->
+      </class> <!-- co.uk.automation.Tests.testExample -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
