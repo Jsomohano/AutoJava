@@ -3,13 +3,13 @@
 <suite name="Failed suite [Surefire suite]" verbose="0">
   <test thread-count="5" name="Surefire test(failed)" verbose="0">
     <classes>
-      <class name="co.uk.automation.Tests.testExample">
+      <class name="co.uk.automation.Tests.CreateOrderTest">
         <methods>
-          <include name="userNameValidation2"/>
           <include name="testInitialize"/>
           <include name="cleanDriver"/>
+          <include name="createOrder"/>
         </methods>
-      </class> <!-- co.uk.automation.Tests.testExample -->
+      </class> <!-- co.uk.automation.Tests.CreateOrderTest -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->
